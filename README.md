@@ -4,10 +4,6 @@ Büşra is a 2nd year Computer Engineering student at Sivas Cumhuriyet Universit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-g%C3%B6kta%C5%9F-c%C3%BC/)
 
 ##
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-
-
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=busrasgkts15&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
