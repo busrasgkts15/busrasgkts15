@@ -3,4 +3,5 @@ Büşra is a 2nd year Computer Engineering student at Sivas Cumhuriyet Universit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-g%C3%B6kta%C5%9F-c%C3%BC/)
 
-C:\Users\User\Downloads\java_226777.png
+![image](https://github.com/busrasgkts15/busrasgkts15/assets/111711054/92382c5b-e5a2-46ab-b09f-1d01252f0b1b)
+
