@@ -3,7 +3,6 @@ I am a 3rd-year Computer Engineering student at Sivas Cumhuriyet University. Whi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%BC%C5%9Fra-g%C3%B6kta%C5%9F-c%C3%BC/)
 
-##
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=busrasgkts15&theme=pink-green)](https://github.com/anuraghazra/github-readme-stats)
 
